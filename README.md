@@ -32,6 +32,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `yarn eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
+##INTERFACE
+![image](https://user-images.githubusercontent.com/47937274/201530595-e2241fdd-0c46-4798-8714-d8e5c27868b0.png)
+
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
